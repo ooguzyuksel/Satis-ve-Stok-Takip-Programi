@@ -1,0 +1,2 @@
+# Satis-ve-Stok-Takip-Programi
+Satış ve stoklarınızı, basit bir arayüzle takip etmek için kullanabileceğiniz bir program. Güncellemeler devam edecektir. Projeye Murat Yücedağ'ın eğitiminde yer alan proje temel alınarak başlanmış ve geliştirilmeye devam edilmiştir. İyi kodlamalar! Veri tabanı tablolarına ayrı bir dosya içerisinde EXCEL formatında ulaşabilir, bunu projenize SQL üzerinden import edebilirsiniz.
